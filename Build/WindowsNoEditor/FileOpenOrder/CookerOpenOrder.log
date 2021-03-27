@@ -1,621 +1,845 @@
 "../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/sounds/sound_bzzt.uasset" 0
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/enum_npcState.uasset" 1
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/tasks/task_setState.uasset" 2
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/bb_npcMain.uasset" 3
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/BTs/bt_npcRecover.uasset" 4
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/tasks/task_setFocusOnPlayer.uasset" 5
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/tasks/task_focusOnPlayer.uasset" 6
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 7
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/materials/sm_betterWeapon_pTorus1_OcclusionRoughnessMetallic.uasset" 8
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/materials/sm_betterWeapon_pTorus1_Normal.uasset" 9
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/materials/sm_betterWeapon_pTorus1_Emissive.uasset" 10
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/materials/sm_betterWeapon_pTorus1_BaseColor.uasset" 11
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/materials/pTorus1.uasset" 12
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/pTorus1.uasset" 13
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/sm_betterWeapon.uasset" 14
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/sounds/sound_tsk.uasset" 15
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 16
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 17
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 18
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 19
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 20
-"../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleMeshSize.uasset" 21
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 22
-"../../Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 23
-"../../Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 24
-"../../Plugins/FX/Niagara/Content/Functions/RandomUnitVector.uasset" 25
-"../../Plugins/FX/Niagara/Content/Functions/RandomVector.uasset" 26
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 27
-"../../Plugins/FX/Niagara/Content/Modules/Update/Position/JitterPosition.uasset" 28
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 29
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 30
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 31
-"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocity.uasset" 32
-"../../Plugins/FX/Niagara/Content/Modules/Spawn/MeshInterface/SampleStaticMesh.uasset" 33
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 34
-"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/StaticMeshLocation.uasset" 35
-"../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeRibbon.uasset" 36
-"../../Plugins/FX/Niagara/Content/Modules/Ribbons/ScaleRibbonWidth.uasset" 37
-"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 38
-"../../Plugins/FX/Niagara/Content/Modules/Audio/PlayAudio.uasset" 39
-"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/VectorFromCurve.uasset" 40
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/sounds/attenuation_bzzt.uasset" 41
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 42
-"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 43
-"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeVector.uasset" 44
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 45
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 46
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 47
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 48
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 49
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 50
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 51
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 52
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 53
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 54
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 55
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 56
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 57
-"../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 58
-"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 59
-"../../Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 60
-"../../Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 61
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 62
-"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 63
-"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 64
-"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 65
-"../../Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 66
-"../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 67
-"../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 68
-"../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 69
-"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 70
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 71
-"../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 72
-"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 73
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/fx/m_charamGlow.uasset" 74
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/fx/mi_chakramGlow.uasset" 75
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/fx/ns_chakram.uasset" 76
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 77
-"../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSizeBySpeed.uasset" 78
-"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uasset" 79
-"../../Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 80
-"../../Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset" 81
-"../../Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 82
-"../../Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uasset" 83
-"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 84
-"../../Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 85
-"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uasset" 86
-"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 87
-"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uasset" 88
-"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 89
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/fx/ns_burst.uasset" 90
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/bp_functions.uasset" 91
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/interfaces/i_hit.uasset" 92
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/projectile_actor.uasset" 93
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/UI/w_pauseMenu.uasset" 94
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/materials/m_takeDamage.uasset" 95
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/materials/mi_takeDamage.uasset" 96
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 97
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 98
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/MAGIC_Skeleton.uasset" 99
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/animations/anim_newThrow.uasset" 100
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/animations/montage_newThrow.uasset" 101
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/music/_ONTIVA_COM_-Rob_Clouth_-_Bubble_chamber__Original_-HQ.uasset" 102
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/interfaces/i_wallRun.uasset" 103
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/Layer_3.uasset" 104
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/PlayerHud/WidgetHud.uasset" 105
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/SPRINT_WITHCHAK_HIGH.uasset" 106
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/RUNCYCLENEW.uasset" 107
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/IDLE.uasset" 108
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/NewBlendSpace.uasset" 109
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Jump.uasset" 110
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/NewAnimBlueprint.uasset" 111
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/MAGIC_PhysicsAsset.uasset" 112
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/MAGIC_lambert1_OcclusionRoughnessMetallic.uasset" 113
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/MAGIC_lambert1_Normal.uasset" 114
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/MAGIC_lambert1_BaseColor.uasset" 115
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/lambert1.uasset" 116
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/MAGIC.uasset" 117
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/16/Linoleum_Splashed_Brickwork_Tiles_INST_roughness.uasset" 118
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/16/Linoleum_Splashed_Brickwork_Tiles_INST_normal.uasset" 119
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Materials/m_vecLine.uasset" 120
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Materials/mi_vecline.uasset" 121
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/splinemesh.uasset" 122
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/player_controller.uasset" 123
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/player_char.uasset" 124
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/context_player.uasset" 125
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/eqs_npcFindLocation.uasset" 126
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/BTs/bt_npcHold.uasset" 127
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/tasks/task_attack.uasset" 128
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/BTs/bt_npcAttack.uasset" 129
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/BTs/bt_npcMain.uasset" 130
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/npc_ai.uasset" 131
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/Attack_Skeleton.uasset" 132
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/SMACKTHATBITCH.uasset" 133
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/montage_attack.uasset" 134
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/Attack_PhysicsAsset.uasset" 135
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/Attack_defaultMat1_OcclusionRoughnessMetallic.uasset" 136
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/Attack_defaultMat1_Normal.uasset" 137
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/Attack_defaultMat1_Emissive.uasset" 138
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/Attack_defaultMat1_BaseColor.uasset" 139
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/defaultMat1.uasset" 140
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/Attack.uasset" 141
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/Runshrimpya.uasset" 142
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/IDLE.uasset" 143
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/BS_Shrimp.uasset" 144
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/AnimBp_shrimp.uasset" 145
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/npc_char.uasset" 146
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/bp_aChar.uasset" 147
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/i_hit.uasset" 148
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/23_PhysicsAsset.uasset" 149
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/23.uasset" 150
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shield.uasset" 151
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/SPRINT.uasset" 152
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/SPRINT_WITHCHAK_LOW.uasset" 153
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Throw.uasset" 154
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Throw_Montage.uasset" 155
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/Enemy2_Skeleton.uasset" 156
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/Enemy2_PhysicsAsset.uasset" 157
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/PM3D_PolySphere1.uasset" 158
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/Enemy2.uasset" 159
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/jump_attack.uasset" 160
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/left_turn_45.uasset" 161
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_swiping.uasset" 162
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/montage_enemySwipe.uasset" 163
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_breathing_idle.uasset" 164
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_dying.uasset" 165
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_flexing_muscles.uasset" 166
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_idle__2_.uasset" 167
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_jumping.uasset" 168
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_jumping__2_.uasset" 169
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_jump_attack.uasset" 170
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_left_turn_45.uasset" 171
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_punch.uasset" 172
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_right_turn_45.uasset" 173
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_right_turn_45__2_.uasset" 174
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_right_turn_90.uasset" 175
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_roaring.uasset" 176
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/Attack_Anim.uasset" 177
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pPipe1_lambert1_OcclusionRoughnessMetallic.uasset" 178
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pPipe1_lambert1_Normal.uasset" 179
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pPipe1_lambert1_BaseColor.uasset" 180
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/lambert1.uasset" 181
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pCube11.uasset" 182
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pCube2.uasset" 183
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Base/WorldGridMaterial.uasset" 184
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Base/Plane.uasset" 185
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/3/Asphalt_Regular__INST_roughness.uasset" 186
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/3/Asphalt_Regular__INST_normal.uasset" 187
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/3/Asphalt_Regular__INST_metallic.uasset" 188
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/3/Asphalt_Regular__INST_diffuse.uasset" 189
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/3/Asphalt_Regular__INST_ambient_occlusion.uasset" 190
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Asphalt_Regular__MAT_Template.uasset" 191
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/15/Braided_Pvc_Flooring_Jacquard_INST_specularlevel.uasset" 192
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/15/Braided_Pvc_Flooring_Jacquard_INST_roughness.uasset" 193
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/15/Braided_Pvc_Flooring_Jacquard_INST_normal.uasset" 194
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/15/Braided_Pvc_Flooring_Jacquard_INST_metallic.uasset" 195
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/15/Braided_Pvc_Flooring_Jacquard_INST_diffuse.uasset" 196
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/15/Braided_Pvc_Flooring_Jacquard_INST_ambientocclusion.uasset" 197
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Braided_Pvc_Flooring_Jacquard_MAT_Template.uasset" 198
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/13/Braided_Pvc_Flooring_Square_Tiles_INST_specularlevel.uasset" 199
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/13/Braided_Pvc_Flooring_Square_Tiles_INST_roughness.uasset" 200
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/13/Braided_Pvc_Flooring_Square_Tiles_INST_normal.uasset" 201
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/13/Braided_Pvc_Flooring_Square_Tiles_INST_metallic.uasset" 202
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/13/Braided_Pvc_Flooring_Square_Tiles_INST_diffuse.uasset" 203
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/13/Braided_Pvc_Flooring_Square_Tiles_INST_ambientocclusion.uasset" 204
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Braided_Pvc_Flooring_Square_Tiles_MAT_Template.uasset" 205
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/17/Cork_Barriga_Honeycomb_Debossed_INST_roughness.uasset" 206
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/17/Cork_Barriga_Honeycomb_Debossed_INST_normal.uasset" 207
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/17/Cork_Barriga_Honeycomb_Debossed_INST_metallic.uasset" 208
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/17/Cork_Barriga_Honeycomb_Debossed_INST_diffuse.uasset" 209
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/17/Cork_Barriga_Honeycomb_Debossed_INST_ambientocclusion.uasset" 210
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Cork_Barriga_Honeycomb_Debossed_MAT_Template.uasset" 211
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/14/Cork_Barriga_Soundwave_Pattern_INST_roughness.uasset" 212
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/14/Cork_Barriga_Soundwave_Pattern_INST_normal.uasset" 213
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/14/Cork_Barriga_Soundwave_Pattern_INST_metallic.uasset" 214
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/14/Cork_Barriga_Soundwave_Pattern_INST_diffuse.uasset" 215
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/14/Cork_Barriga_Soundwave_Pattern_INST_ambientocclusion.uasset" 216
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Cork_Barriga_Soundwave_Pattern_MAT_Template.uasset" 217
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/5/Diamond_Plate_Quad_INST_roughness.uasset" 218
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/5/Diamond_Plate_Quad_INST_normal.uasset" 219
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/5/Diamond_Plate_Quad_INST_metallic.uasset" 220
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/5/Diamond_Plate_Quad_INST_diffuse.uasset" 221
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/5/Diamond_Plate_Quad_INST_ambient_occlusion.uasset" 222
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Diamond_Plate_Quad_MAT_Template.uasset" 223
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/emission2.uasset" 224
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/emission32.uasset" 225
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/11/Eroded_Concrete__INST_roughness.uasset" 226
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/11/Eroded_Concrete__INST_normal.uasset" 227
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/11/Eroded_Concrete__INST_metallic.uasset" 228
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/11/Eroded_Concrete__INST_diffuse.uasset" 229
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Eroded_Concrete__MAT_Template.uasset" 230
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/20/Jet_Turbine_INST_roughness.uasset" 231
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/20/Jet_Turbine_INST_normal.uasset" 232
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/20/Jet_Turbine_INST_metallic.uasset" 233
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/20/Jet_Turbine_INST_diffuse.uasset" 234
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/20/Jet_Turbine_INST_ambientocclusion.uasset" 235
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Jet_Turbine_MAT_Template.uasset" 236
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/7/Metal_Galvanized_INST_roughness.uasset" 237
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/7/Metal_Galvanized_INST_normal.uasset" 238
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/7/Metal_Galvanized_INST_metallic.uasset" 239
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/7/Metal_Galvanized_INST_diffuse.uasset" 240
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/7/Metal_Galvanized_INST_ambient_occlusion.uasset" 241
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Metal_Galvanized_MAT_Template.uasset" 242
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/6/Vent_Shutter_INST_roughness.uasset" 243
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/6/Vent_Shutter_INST_opacity.uasset" 244
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/6/Vent_Shutter_INST_normal.uasset" 245
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/6/Vent_Shutter_INST_metallic.uasset" 246
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/6/Vent_Shutter_INST_diffuse.uasset" 247
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/6/Vent_Shutter_INST_ambient_occlusion.uasset" 248
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Vent_Shutter_MAT_Template.uasset" 249
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/1/Shou_Sugi_Ban_INST_roughness.uasset" 250
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/1/Shou_Sugi_Ban_INST_normal.uasset" 251
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/1/Shou_Sugi_Ban_INST_metallic.uasset" 252
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/1/Shou_Sugi_Ban_INST_diffuse.uasset" 253
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/1/Shou_Sugi_Ban_INST_ambientocclusion.uasset" 254
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/1/Shou_Sugi_Ban_MAT_Template.uasset" 255
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/1/Shou_Sugi_Ban_MAT.uasset" 256
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/10/Concrete_Matte_Polished_INST_roughness.uasset" 257
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/10/Concrete_Matte_Polished_INST_normal.uasset" 258
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/10/Concrete_Matte_Polished_INST_metallic.uasset" 259
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/10/Concrete_Matte_Polished_INST_diffuse.uasset" 260
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/10/Concrete_Matte_Polished_MAT_Template.uasset" 261
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/10/Concrete_Matte_Polished_MAT.uasset" 262
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/11/Eroded_Concrete__MAT_Template.uasset" 263
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/11/Eroded_Concrete__MAT.uasset" 264
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/12/Lavastone_Polished_INST_roughness.uasset" 265
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/12/Lavastone_Polished_INST_normal.uasset" 266
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/12/Lavastone_Polished_INST_metallic.uasset" 267
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/12/Lavastone_Polished_INST_diffuse.uasset" 268
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/12/Lavastone_Polished_MAT_Template.uasset" 269
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/12/Lavastone_Polished_MAT.uasset" 270
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/13/Braided_Pvc_Flooring_Square_Tiles_MAT_Template.uasset" 271
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/13/Braided_Pvc_Flooring_Square_Tiles_MAT.uasset" 272
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/14/Cork_Barriga_Soundwave_Pattern_MAT_Template.uasset" 273
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/14/Cork_Barriga_Soundwave_Pattern_MAT.uasset" 274
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/15/Braided_Pvc_Flooring_Jacquard_MAT_Template.uasset" 275
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/15/Braided_Pvc_Flooring_Jacquard_MAT.uasset" 276
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/16/Linoleum_Splashed_Brickwork_Tiles_INST_metallic.uasset" 277
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/16/Linoleum_Splashed_Brickwork_Tiles_INST_diffuse.uasset" 278
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/16/Linoleum_Splashed_Brickwork_Tiles_MAT_Template.uasset" 279
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/16/Linoleum_Splashed_Brickwork_Tiles_MAT.uasset" 280
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/17/Cork_Barriga_Honeycomb_Debossed_MAT_Template.uasset" 281
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/17/Cork_Barriga_Honeycomb_Debossed_MAT.uasset" 282
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/18/Rubber_Seal_Chromatic_Window_INST_roughness.uasset" 283
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/18/Rubber_Seal_Chromatic_Window_INST_refraction.uasset" 284
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/18/Rubber_Seal_Chromatic_Window_INST_normal.uasset" 285
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/18/Rubber_Seal_Chromatic_Window_INST_metallic.uasset" 286
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/18/Rubber_Seal_Chromatic_Window_INST_diffuse.uasset" 287
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/18/Rubber_Seal_Chromatic_Window_MAT_Template.uasset" 288
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/18/Rubber_Seal_Chromatic_Window_MAT.uasset" 289
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/19/Stylized_Oxidized_Battered_Copper_INST_roughness.uasset" 290
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/19/Stylized_Oxidized_Battered_Copper_INST_normal.uasset" 291
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/19/Stylized_Oxidized_Battered_Copper_INST_metallic.uasset" 292
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/19/Stylized_Oxidized_Battered_Copper_INST_diffuse.uasset" 293
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/19/Stylized_Oxidized_Battered_Copper_INST_ambientocclusion.uasset" 294
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/19/Stylized_Oxidized_Battered_Copper_MAT_Template.uasset" 295
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/19/Stylized_Oxidized_Battered_Copper_MAT.uasset" 296
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/2/Ceramic_Coating_Concrete_INST_roughness.uasset" 297
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/2/Ceramic_Coating_Concrete_INST_normal.uasset" 298
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/2/Ceramic_Coating_Concrete_INST_metallic.uasset" 299
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/2/Ceramic_Coating_Concrete_INST_diffuse.uasset" 300
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/2/Ceramic_Coating_Concrete_INST_ambientocclusion.uasset" 301
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/2/Ceramic_Coating_Concrete_MAT_Template.uasset" 302
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/2/Ceramic_Coating_Concrete_MAT.uasset" 303
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/20/Jet_Turbine_MAT_Template.uasset" 304
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/20/Jet_Turbine_MAT.uasset" 305
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/3/Asphalt_Regular__MAT_Template.uasset" 306
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/3/Asphalt_Regular__MAT.uasset" 307
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/4/Asphalt_Rough_INST_roughness.uasset" 308
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/4/Asphalt_Rough_INST_normal.uasset" 309
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/4/Asphalt_Rough_INST_metallic.uasset" 310
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/4/Asphalt_Rough_INST_diffuse.uasset" 311
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/4/Asphalt_Rough_MAT_Template.uasset" 312
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/4/Asphalt_Rough_MAT.uasset" 313
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/5/Diamond_Plate_Quad_MAT_Template.uasset" 314
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/5/Diamond_Plate_Quad_MAT.uasset" 315
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/6/Vent_Shutter_MAT_Template.uasset" 316
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/6/Vent_Shutter_MAT.uasset" 317
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/7/Metal_Galvanized_MAT_Template.uasset" 318
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/7/Metal_Galvanized_MAT.uasset" 319
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/8/Metal_Pewter_Striped_INST_roughness.uasset" 320
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/8/Metal_Pewter_Striped_INST_normal.uasset" 321
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/8/Metal_Pewter_Striped_INST_metallic.uasset" 322
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/8/Metal_Pewter_Striped_INST_diffuse.uasset" 323
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/8/Metal_Pewter_Striped_INST_ambient_occlusion.uasset" 324
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/8/Metal_Pewter_Striped_MAT_Template.uasset" 325
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/8/Metal_Pewter_Striped_MAT.uasset" 326
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/9/Steel_Galvanized_INST_roughness.uasset" 327
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/9/Steel_Galvanized_INST_normal.uasset" 328
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/9/Steel_Galvanized_INST_metallic.uasset" 329
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/9/Steel_Galvanized_INST_diffuse.uasset" 330
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/9/Steel_Galvanized_MAT_Template.uasset" 331
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/9/Steel_Galvanized_MAT.uasset" 332
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/TITLE.uasset" 333
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/Bebas-Regular.uasset" 334
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/NewFont.uasset" 335
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/Vv.uasset" 336
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/BackgroundVideo.uasset" 337
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/BackgroundVideo_Video.uasset" 338
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/MainWindows.uasset" 339
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/tasks/task_randomWalk.uasset" 1
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/enum_npcState.uasset" 2
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/tasks/task_setState.uasset" 3
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/tasks/task_setFocusOnPlayer.uasset" 4
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/bb_npcMain.uasset" 5
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/BTs/bt_npcRecover.uasset" 6
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/UI/MainMenu/Bebas-Regular.uasset" 7
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/UI/MainMenu/NewFont.uasset" 8
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/UI/w_pauseMenu.uasset" 9
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/materials/m_takeDamage.uasset" 10
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/materials/mi_takeDamage.uasset" 11
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 12
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 13
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/MAGIC_Skeleton.uasset" 14
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/animations/anim_newThrow.uasset" 15
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/animations/montage_newThrow.uasset" 16
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/interfaces/i_throwable.uasset" 17
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/interfaces/i_wallRun.uasset" 18
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/interfaces/i_interact.uasset" 19
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/UI/MainMenu/Layer_3.uasset" 20
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/UI/PlayerHud/WidgetHud.uasset" 21
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/SPRINT_WITHCHAK_HIGH.uasset" 22
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/RUNCYCLENEW.uasset" 23
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/IDLE.uasset" 24
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/NewBlendSpace.uasset" 25
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Jump.uasset" 26
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/NewAnimBlueprint.uasset" 27
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/MAGIC_PhysicsAsset.uasset" 28
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/MAGIC_lambert1_OcclusionRoughnessMetallic.uasset" 29
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/MAGIC_lambert1_Normal.uasset" 30
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/MAGIC_lambert1_BaseColor.uasset" 31
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/lambert1.uasset" 32
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/MAGIC.uasset" 33
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/16/Linoleum_Splashed_Brickwork_Tiles_INST_roughness.uasset" 34
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/16/Linoleum_Splashed_Brickwork_Tiles_INST_normal.uasset" 35
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Materials/m_vecLine.uasset" 36
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Materials/mi_vecline.uasset" 37
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/splinemesh.uasset" 38
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/player_controller.uasset" 39
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 40
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/gi_mine.uasset" 41
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/bp_functions.uasset" 42
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 43
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 44
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 45
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 46
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 47
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 48
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 49
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 50
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 51
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 52
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 53
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 54
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 55
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 56
+"../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 57
+"../../Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 58
+"../../Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 59
+"../../Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 60
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 61
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 62
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 63
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 64
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 65
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 66
+"../../Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 67
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 68
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 69
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 70
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 71
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 72
+"../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 73
+"../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 74
+"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 75
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 76
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 77
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 78
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/ranged/m_projectile.uasset" 79
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/ranged/mi_projectile.uasset" 80
+"../../Plugins/FX/Niagara/Content/DefaultAssets/Structs/LocationEvent.uasset" 81
+"../../Plugins/FX/Niagara/Content/Modules/Events/ReceiveLocationEvent.uasset" 82
+"../../Plugins/FX/Niagara/Content/Functions/Helpers/AdvancePositionWithAcceleration.uasset" 83
+"../../Plugins/FX/Niagara/Content/Modules/Events/GenerateLocationEvent.uasset" 84
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uasset" 85
+"../../Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 86
+"../../Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 87
+"../../Plugins/FX/Niagara/Content/Functions/RandomUnitVector.uasset" 88
+"../../Plugins/FX/Niagara/Content/Functions/RandomVector.uasset" 89
+"../../Plugins/FX/Niagara/Content/Modules/Update/Position/JitterPosition.uasset" 90
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeRibbon.uasset" 91
+"../../Plugins/FX/Niagara/Content/Modules/Ribbons/ScaleRibbonWidth.uasset" 92
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 93
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uasset" 94
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/fx/nms_meshLocationUpdate.uasset" 95
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/fx/nms_meshLocation.uasset" 96
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/materials/sm_betterWeapon_pTorus1_BaseColor.uasset" 97
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/materials/sm_betterWeapon_pTorus1_OcclusionRoughnessMetallic.uasset" 98
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/materials/sm_betterWeapon_pTorus1_Normal.uasset" 99
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/materials/sm_betterWeapon_pTorus1_Emissive.uasset" 100
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/materials/pTorus1.uasset" 101
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/pTorus1.uasset" 102
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/sm_betterWeapon.uasset" 103
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/fx/ns_projectileNew.uasset" 104
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 105
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 106
+"../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSizeBySpeed.uasset" 107
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uasset" 108
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 109
+"../../Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 110
+"../../Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset" 111
+"../../Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 112
+"../../Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uasset" 113
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 114
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 115
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uasset" 116
+"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 117
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/fx/ns_burst.uasset" 118
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/interfaces/i_hit.uasset" 119
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/projectile_actor.uasset" 120
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/player_char.uasset" 121
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/context_player.uasset" 122
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/eqs_npcFindLocation.uasset" 123
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/BTs/bt_npcHold.uasset" 124
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/tasks/task_attack.uasset" 125
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/BTs/bt_npcAttack.uasset" 126
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/BTs/bt_npcMain.uasset" 127
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/npc_ai.uasset" 128
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/Attack_PhysicsAsset.uasset" 129
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/Attack_defaultMat1_OcclusionRoughnessMetallic.uasset" 130
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/Attack_defaultMat1_Normal.uasset" 131
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/Attack_defaultMat1_Emissive.uasset" 132
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/Attack_defaultMat1_BaseColor.uasset" 133
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/defaultMat1.uasset" 134
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/Attack_Skeleton.uasset" 135
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/Attack.uasset" 136
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/Runshrimpya.uasset" 137
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/IDLE.uasset" 138
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/BS_Shrimp.uasset" 139
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/AnimBp_shrimp.uasset" 140
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/npc_char.uasset" 141
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/bp_aChar.uasset" 142
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/i_hit.uasset" 143
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LetsDoIt.uasset" 144
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/maps/LetsDoIt_BuiltData.uasset" 145
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LetsDoIt_BuiltData.uasset" 146
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/myMap.uasset" 147
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/maps/myMap_BuiltData.uasset" 148
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/myMap_BuiltData.uasset" 149
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NewMap.uasset" 150
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/maps/NewMap_BuiltData.uasset" 151
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NewMap_BuiltData.uasset" 152
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/23_PhysicsAsset.uasset" 153
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/23.uasset" 154
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shield.uasset" 155
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/SPRINT.uasset" 156
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/SPRINT_WITHCHAK_LOW.uasset" 157
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Throw.uasset" 158
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Throw_Montage.uasset" 159
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/Enemy2_Skeleton.uasset" 160
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/Enemy2_PhysicsAsset.uasset" 161
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/PM3D_PolySphere1.uasset" 162
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/Enemy2.uasset" 163
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/jump_attack.uasset" 164
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/left_turn_45.uasset" 165
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_swiping.uasset" 166
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/montage_enemySwipe.uasset" 167
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_breathing_idle.uasset" 168
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_dying.uasset" 169
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_flexing_muscles.uasset" 170
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_idle__2_.uasset" 171
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_jumping.uasset" 172
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_jumping__2_.uasset" 173
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_jump_attack.uasset" 174
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_left_turn_45.uasset" 175
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_punch.uasset" 176
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_right_turn_45.uasset" 177
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_right_turn_45__2_.uasset" 178
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_right_turn_90.uasset" 179
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_roaring.uasset" 180
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/EnemyRange/Old_Man_Idle__1__Skeleton.uasset" 181
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/EnemyRange/Corkscrew_Evade_mixamo_com.uasset" 182
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/EnemyRange/Run_mixamo_com.uasset" 183
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/EnemyRange/Idle_mixamo_com.uasset" 184
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/EnemyRange/NewBlendSpace1D.uasset" 185
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/EnemyRange/animbp_rangedEnemy.uasset" 186
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/EnemyRange/RangedEnemy.uasset" 187
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/EnemyRange/Running_mixamo_com.uasset" 188
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/Attack_Anim.uasset" 189
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/SMACKTHATBITCH.uasset" 190
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Shrimpiya/montage_attack.uasset" 191
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pPipe1_lambert1_OcclusionRoughnessMetallic.uasset" 192
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pPipe1_lambert1_Normal.uasset" 193
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pPipe1_lambert1_BaseColor.uasset" 194
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/lambert1.uasset" 195
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pCube10.uasset" 196
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pCube1021.uasset" 197
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pCube11.uasset" 198
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pCube2.uasset" 199
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pCube4.uasset" 200
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pCube5.uasset" 201
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pPipe1.uasset" 202
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pPrism1.uasset" 203
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pPyramid1.uasset" 204
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/FLOOR.uasset" 205
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Serpentine_Valley_3k.uasset" 206
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/studio012.uasset" 207
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Base/WorldGridMaterial.uasset" 208
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Base/Plane.uasset" 209
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/3/Asphalt_Regular__INST_roughness.uasset" 210
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/3/Asphalt_Regular__INST_normal.uasset" 211
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/3/Asphalt_Regular__INST_metallic.uasset" 212
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/3/Asphalt_Regular__INST_diffuse.uasset" 213
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/3/Asphalt_Regular__INST_ambient_occlusion.uasset" 214
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Asphalt_Regular__MAT_Template.uasset" 215
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/15/Braided_Pvc_Flooring_Jacquard_INST_specularlevel.uasset" 216
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/15/Braided_Pvc_Flooring_Jacquard_INST_roughness.uasset" 217
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/15/Braided_Pvc_Flooring_Jacquard_INST_normal.uasset" 218
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/15/Braided_Pvc_Flooring_Jacquard_INST_metallic.uasset" 219
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/15/Braided_Pvc_Flooring_Jacquard_INST_diffuse.uasset" 220
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/15/Braided_Pvc_Flooring_Jacquard_INST_ambientocclusion.uasset" 221
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Braided_Pvc_Flooring_Jacquard_MAT_Template.uasset" 222
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/13/Braided_Pvc_Flooring_Square_Tiles_INST_specularlevel.uasset" 223
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/13/Braided_Pvc_Flooring_Square_Tiles_INST_roughness.uasset" 224
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/13/Braided_Pvc_Flooring_Square_Tiles_INST_normal.uasset" 225
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/13/Braided_Pvc_Flooring_Square_Tiles_INST_metallic.uasset" 226
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/13/Braided_Pvc_Flooring_Square_Tiles_INST_diffuse.uasset" 227
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/13/Braided_Pvc_Flooring_Square_Tiles_INST_ambientocclusion.uasset" 228
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Braided_Pvc_Flooring_Square_Tiles_MAT_Template.uasset" 229
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/17/Cork_Barriga_Honeycomb_Debossed_INST_roughness.uasset" 230
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/17/Cork_Barriga_Honeycomb_Debossed_INST_normal.uasset" 231
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/17/Cork_Barriga_Honeycomb_Debossed_INST_metallic.uasset" 232
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/17/Cork_Barriga_Honeycomb_Debossed_INST_diffuse.uasset" 233
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/17/Cork_Barriga_Honeycomb_Debossed_INST_ambientocclusion.uasset" 234
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Cork_Barriga_Honeycomb_Debossed_MAT_Template.uasset" 235
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/14/Cork_Barriga_Soundwave_Pattern_INST_roughness.uasset" 236
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/14/Cork_Barriga_Soundwave_Pattern_INST_normal.uasset" 237
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/14/Cork_Barriga_Soundwave_Pattern_INST_metallic.uasset" 238
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/14/Cork_Barriga_Soundwave_Pattern_INST_diffuse.uasset" 239
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/14/Cork_Barriga_Soundwave_Pattern_INST_ambientocclusion.uasset" 240
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Cork_Barriga_Soundwave_Pattern_MAT_Template.uasset" 241
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/5/Diamond_Plate_Quad_INST_roughness.uasset" 242
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/5/Diamond_Plate_Quad_INST_normal.uasset" 243
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/5/Diamond_Plate_Quad_INST_metallic.uasset" 244
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/5/Diamond_Plate_Quad_INST_diffuse.uasset" 245
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/5/Diamond_Plate_Quad_INST_ambient_occlusion.uasset" 246
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Diamond_Plate_Quad_MAT_Template.uasset" 247
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/emission2.uasset" 248
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/emission32.uasset" 249
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/11/Eroded_Concrete__INST_roughness.uasset" 250
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/11/Eroded_Concrete__INST_normal.uasset" 251
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/11/Eroded_Concrete__INST_metallic.uasset" 252
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/11/Eroded_Concrete__INST_diffuse.uasset" 253
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Eroded_Concrete__MAT_Template.uasset" 254
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/20/Jet_Turbine_INST_roughness.uasset" 255
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/20/Jet_Turbine_INST_normal.uasset" 256
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/20/Jet_Turbine_INST_metallic.uasset" 257
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/20/Jet_Turbine_INST_diffuse.uasset" 258
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/20/Jet_Turbine_INST_ambientocclusion.uasset" 259
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Jet_Turbine_MAT_Template.uasset" 260
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/7/Metal_Galvanized_INST_normal.uasset" 261
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/7/Metal_Galvanized_INST_metallic.uasset" 262
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/7/Metal_Galvanized_INST_diffuse.uasset" 263
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/7/Metal_Galvanized_INST_ambient_occlusion.uasset" 264
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/7/Metal_Galvanized_INST_roughness.uasset" 265
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Metal_Galvanized_MAT_Template.uasset" 266
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/6/Vent_Shutter_INST_roughness.uasset" 267
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/6/Vent_Shutter_INST_opacity.uasset" 268
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/6/Vent_Shutter_INST_normal.uasset" 269
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/6/Vent_Shutter_INST_metallic.uasset" 270
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/6/Vent_Shutter_INST_diffuse.uasset" 271
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/6/Vent_Shutter_INST_ambient_occlusion.uasset" 272
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Vent_Shutter_MAT_Template.uasset" 273
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/10/Concrete_Roughness.uasset" 274
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/BigStone/pCube1.uasset" 275
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/BigStone/BricksAllDone_pCube1.uasset" 276
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/BigStone/pCube1_copy1.uasset" 277
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/BigStone/BricksAllDone_pCube1_copy1.uasset" 278
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Concrete/Concrete_Base_Color.uasset" 279
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Concrete/Concrete_Height.uasset" 280
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Concrete/Concrete_Metallic.uasset" 281
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Concrete/Concrete_Mixed_AO.uasset" 282
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Concrete/Concrete_Normal.uasset" 283
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Concrete/Concrete_Roughness.uasset" 284
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Concrete/SOA_Ceramictiles_D_2.uasset" 285
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/PatriarchMaterial/SOA_endless_dummy.uasset" 286
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/PatriarchMaterial/MasterMaterialGround.uasset" 287
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/PatriarchMaterial/MasterMaterialGround_Inst.uasset" 288
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/PatriarchMaterial/SOA_Ceramictiles_D.uasset" 289
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/18/Rubber_Seal_Chromatic_Window_INST_diffuse.uasset" 290
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Pipe/RopeMaterial.uasset" 291
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Pipe/Pipe.uasset" 292
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Tiles/Concrete_Base_Color.uasset" 293
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Tiles/Concrete_Height.uasset" 294
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Tiles/Concrete_Metallic.uasset" 295
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Tiles/Concrete_Normal.uasset" 296
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Tiles/SOA_Ceramictiles_D_2.uasset" 297
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Tiles/SOA_endless_dummy_2.uasset" 298
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/UI/MainMenu/BackgroundVideo.uasset" 299
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/MainMenu/BackgroundVideo.uasset" 300
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/BackgroundVideo.uasset" 301
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/UI/MainMenu/BackgroundVideo_Video.uasset" 302
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/MainMenu/BackgroundVideo_Video.uasset" 303
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/BackgroundVideo_Video.uasset" 304
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/MainMenu/Bebas-Regular.uasset" 305
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/Bebas-Regular.uasset" 306
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/UI/MainMenu/Vv.uasset" 307
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/UI/MainMenu/TITLE.uasset" 308
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/UI/MainMenu/MainWindows.uasset" 309
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/UI/MainMenu/Ui_char.uasset" 310
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/UI/MainMenu/gm_dima.uasset" 311
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/MainMenu/gm_dima.uasset" 312
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/gm_dima.uasset" 313
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/MainMenu/Layer_3.uasset" 314
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/Layer_3.uasset" 315
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/MainMenu/MainWindows.uasset" 316
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/MainWindows.uasset" 317
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/MainMenu/NewFont.uasset" 318
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/NewFont.uasset" 319
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/UI/MainMenu/NewMediaPlaylist.uasset" 320
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/MainMenu/NewMediaPlaylist.uasset" 321
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/NewMediaPlaylist.uasset" 322
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 323
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 324
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 325
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 326
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 327
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/UI/MainMenu/Start_char.uasset" 328
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/MainMenu/Start_char.uasset" 329
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/Start_char.uasset" 330
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/MainMenu/TITLE.uasset" 331
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/TITLE.uasset" 332
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/UI/MainMenu/UIGAMEPLAY.uasset" 333
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/MainMenu/UIGAMEPLAY.uasset" 334
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/UIGAMEPLAY.uasset" 335
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/MainMenu/UILEVEL.uasset" 336
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/MainMenu/UILEVEL.uasset" 337
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/UILEVEL.uasset" 338
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/MainMenu/Ui_char.uasset" 339
 "../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/Ui_char.uasset" 340
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/gm_dima.uasset" 341
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/NewMediaPlaylist.uasset" 342
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 343
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/Start_char.uasset" 344
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/Videox.uasset" 345
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/PlayerHud/PlayerHUD.uasset" 346
-"../../../Engine/Content/EngineMeshes/Cube.uasset" 347
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 348
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Cube.uasset" 349
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/WallRun/bp_runWall.uasset" 350
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/bp_runWall.uasset" 351
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/WallRun/Materials/m_runwall.uasset" 352
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/WallRun/Materials/mi_blocks.uasset" 353
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/mi_blocks.uasset" 354
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/WallRun/Materials/mi_runwall.uasset" 355
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/mi_runwall.uasset" 356
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/m_runwall.uasset" 357
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_walking.uasset" 358
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_idle.uasset" 359
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_run.uasset" 360
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/bs_enemy.uasset" 361
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/animBP_enemy.uasset" 362
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/testpawn.uasset" 363
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/materials/lambert1.uasset" 364
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/sm_oldWeapon.uasset" 365
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/CHAKRA.uasset" 366
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/enum_wallSide.uasset" 367
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/lambert1.uasset" 368
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/ns_burst.uasset" 369
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/player_charMine.uasset" 370
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/sm_betterWeapon_pTorus1_BaseColor.uasset" 371
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/sm_betterWeapon_pTorus1_Emissive.uasset" 372
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/sm_betterWeapon_pTorus1_Normal.uasset" 373
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/sm_betterWeapon_pTorus1_OcclusionRoughnessMetallic.uasset" 374
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/VV3.uasset" 375
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 376
-"../../../Engine/Content/BasicShapes/Cone.uasset" 377
-"../../../Engine/Content/BasicShapes/Plane.uasset" 378
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 379
-"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 380
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 381
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 382
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 383
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 384
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 385
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 386
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 387
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 388
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 389
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 390
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 391
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 392
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 393
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 394
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 395
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 396
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 397
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 398
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 399
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 400
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 401
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 402
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 403
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 404
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 405
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 406
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 407
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 408
-"../../../Engine/Content/EditorResources/S_Note.uasset" 409
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 410
-"../../../Engine/Content/EditorResources/S_Terrain.uasset" 411
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 412
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 413
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 414
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 415
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 416
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 417
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 418
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 419
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 420
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 421
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 422
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 423
-"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 424
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 425
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 426
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 427
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 428
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 429
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 430
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 431
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 432
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 433
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 434
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 435
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 436
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 437
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 438
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 439
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 440
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 441
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 442
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 443
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 444
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 445
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 446
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 447
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 448
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 449
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 450
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 451
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 452
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 453
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 454
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 455
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 456
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 457
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 458
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 459
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 460
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 461
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 462
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 463
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 464
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 465
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 466
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 467
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 468
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 469
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 470
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 471
-"../../../Engine/Content/EngineResources/Black.uasset" 472
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 473
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 474
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 475
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 476
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 477
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 478
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 479
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 480
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 481
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 482
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 483
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 484
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 485
-"../../../Engine/Content/EngineSounds/Master.uasset" 486
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 487
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 488
-"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 489
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 490
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 491
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 492
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 493
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 494
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 495
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 496
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 497
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 498
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 499
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 500
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 501
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 502
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 503
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 504
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 505
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 506
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 507
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 508
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 509
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 510
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 511
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 512
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 513
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 514
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 515
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 516
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 517
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 518
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 519
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 520
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 521
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 522
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 523
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 524
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 525
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 526
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 527
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 528
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 529
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 530
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 531
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 532
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 533
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 534
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 535
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 536
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 537
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 538
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 539
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 540
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 541
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 542
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 543
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 544
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 545
-"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 546
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 547
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 548
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 549
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 550
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 551
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Map/nebula-01-low.uasset" 552
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Gate/Closing_Skeleton.uasset" 553
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Gate/Closing_PhysicsAsset.uasset" 554
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Gate/lambert1.uasset" 555
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Gate/Closing.uasset" 556
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Brush/BRUSH_Skeleton.uasset" 557
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Brush/BRUSH_PhysicsAsset.uasset" 558
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Brush/lambert1.uasset" 559
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Brush/BRUSH.uasset" 560
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LetsDoIt_BuiltData.uasset" 561
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/testing/vol_spawner.uasset" 562
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Map/x2propelor_Skeleton.uasset" 563
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Map/x2propelor_Anim.uasset" 564
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Map/x2propelor_PhysicsAsset.uasset" 565
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Map/lambert1.uasset" 566
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Map/x2propelor.uasset" 567
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Map/arounpropelor_pCylinder2.uasset" 568
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/Propellor/propellor_actor.uasset" 569
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/JumpPad/Cylinder.uasset" 570
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/JumpPad/Jumppad.uasset" 571
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Gate/Closing_Anim.uasset" 572
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/gm_mine.uasset" 573
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Brush/BRUSH_Anim.uasset" 574
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LetsDoIt.umap" 575
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/emission432.uasset" 576
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Stylized_Oxidized_Battered_Copper_MAT_Template.uasset" 577
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Steel_Galvanized_MAT_Template.uasset" 578
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Shou_Sugi_Ban_MAT_Template.uasset" 579
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Rubber_Seal_Chromatic_Window_MAT_Template.uasset" 580
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Metal_Pewter_Striped_MAT_Template.uasset" 581
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Linoleum_Splashed_Brickwork_Tiles_MAT_Template.uasset" 582
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Lavastone_Polished_MAT_Template.uasset" 583
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Concrete_Matte_Polished_MAT_Template.uasset" 584
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Ceramic_Coating_Concrete_MAT_Template.uasset" 585
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Asphalt_Rough_MAT_Template.uasset" 586
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/16/emission.uasset" 587
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/3X.uasset" 588
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/myMap_BuiltData.uasset" 589
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/Helpers/helper_step.uasset" 590
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/Doors/door_sliding.uasset" 591
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/myMap.umap" 592
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 593
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 594
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 595
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 596
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NewMap_BuiltData.uasset" 597
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 598
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 599
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 600
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 601
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 602
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NewMap.umap" 603
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/FLOOR.uasset" 604
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pPyramid1.uasset" 605
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pPrism1.uasset" 606
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pPipe1.uasset" 607
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pCube5.uasset" 608
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pCube4.uasset" 609
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pCube1021.uasset" 610
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Assets/Assets2_pCube10.uasset" 611
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 612
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/dimaTest_BuiltData.uasset" 613
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/dimaTest.umap" 614
-"../../../Engine/Content/BasicShapes/Cube.uasset" 615
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 616
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/UIGAMEPLAY.uasset" 617
-"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/UILEVEL.umap" 618
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 619
-"../../../Engine/Content/Maps/Entry.umap" 620
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/UI/MainMenu/Videox.uasset" 341
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/MainMenu/Videox.uasset" 342
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/Videox.uasset" 343
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/MainMenu/Vv.uasset" 344
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/Vv.uasset" 345
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/UI/PlayerHud/PlayerHUD.uasset" 346
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/MainMenu/PlayerHud/PlayerHUD.uasset" 347
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/PlayerHud/PlayerHUD.uasset" 348
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/MainMenu/PlayerHud/WidgetHud.uasset" 349
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/UI/PlayerHud/WidgetHud.uasset" 350
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 351
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 352
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Cube.uasset" 353
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/WallRun/bp_runWall.uasset" 354
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/bp_runWall.uasset" 355
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/WallRun/Materials/m_runwall.uasset" 356
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/WallRun/Materials/mi_blocks.uasset" 357
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/mi_blocks.uasset" 358
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/WallRun/Materials/mi_runwall.uasset" 359
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/mi_runwall.uasset" 360
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/m_runwall.uasset" 361
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/Checkpoints/checkpoint_start.uasset" 362
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/Checkpoints/checkpoint_first.uasset" 363
+"../../../Engine/Content/BasicShapes/Cube1.uasset" 364
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/gm_mine.uasset" 365
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/Checkpoints/checkpoint_parent.uasset" 366
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/Checkpoints/checkpoint_interactable.uasset" 367
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Bitmaps/Arrow.uasset" 368
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Materials/Arrow.uasset" 369
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Bitmaps/Pattern02.uasset" 370
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Materials/Pattern.uasset" 371
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Bitmaps/Pentagon.uasset" 372
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Materials/Pentagon.uasset" 373
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Bitmaps/sparkle01.uasset" 374
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Materials/Sparkle.uasset" 375
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Bitmaps/StarBurst.uasset" 376
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Materials/Starburst.uasset" 377
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Bitmaps/Windows.uasset" 378
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Materials/Window.uasset" 379
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Beam4.uasset" 380
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst3.uasset" 381
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Wall_TStar.uasset" 382
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/music/_ONTIVA_COM_-Rob_Clouth_-_Bubble_chamber__Original_-HQ.uasset" 383
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_walking.uasset" 384
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_run.uasset" 385
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/Enemy/mutant_idle.uasset" 386
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/bs_enemy.uasset" 387
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/animBP_enemy.uasset" 388
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/testpawn.uasset" 389
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/AI/tasks/task_focusOnPlayer.uasset" 390
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/melee/npc_melee.uasset" 391
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/materials/lambert1.uasset" 392
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/sm_oldWeapon.uasset" 393
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/CHAKRA.uasset" 394
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/enum_wallSide.uasset" 395
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/lambert1.uasset" 396
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/ns_burst.uasset" 397
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/player_charMine.uasset" 398
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 399
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/projectile_locSphere.uasset" 400
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/sm_betterWeapon_pTorus1_BaseColor.uasset" 401
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/sm_betterWeapon_pTorus1_Emissive.uasset" 402
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/sm_betterWeapon_pTorus1_Normal.uasset" 403
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/sm_betterWeapon_pTorus1_OcclusionRoughnessMetallic.uasset" 404
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/VV3.uasset" 405
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/sounds/sound_tsk.uasset" 406
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/sounds/attenuation_bzzt.uasset" 407
+"../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleMeshSize.uasset" 408
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocity.uasset" 409
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/MeshInterface/SampleStaticMesh.uasset" 410
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 411
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/StaticMeshLocation.uasset" 412
+"../../Plugins/FX/Niagara/Content/Modules/Audio/PlayAudio.uasset" 413
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/VectorFromCurve.uasset" 414
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeVector.uasset" 415
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/fx/m_charamGlow.uasset" 416
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/fx/mi_chakramGlow.uasset" 417
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Player/fx/ns_chakram.uasset" 418
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 419
+"../../../Engine/Content/BasicShapes/Cone.uasset" 420
+"../../../Engine/Content/BasicShapes/Plane.uasset" 421
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 422
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 423
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 424
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 425
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 426
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 427
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 428
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 429
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 430
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 431
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 432
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 433
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 434
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 435
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 436
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 437
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 438
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 439
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 440
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 441
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 442
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 443
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 444
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 445
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 446
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 447
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 448
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 449
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 450
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 451
+"../../../Engine/Content/EditorResources/S_Note.uasset" 452
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 453
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 454
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 455
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 456
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 457
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 458
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 459
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 460
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 461
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 462
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 463
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 464
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 465
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 466
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 467
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 468
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 469
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 470
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 471
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 472
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 473
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 474
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 475
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 476
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 477
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 478
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 479
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 480
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 481
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 482
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 483
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 484
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 485
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 486
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 487
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 488
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 489
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 490
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 491
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 492
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 493
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 494
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 495
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 496
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 497
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 498
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 499
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 500
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 501
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 502
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 503
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 504
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 505
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 506
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 507
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 508
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 509
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 510
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 511
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 512
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 513
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 514
+"../../../Engine/Content/EngineResources/Black.uasset" 515
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 516
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 517
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 518
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 519
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 520
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 521
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 522
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 523
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 524
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 525
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 526
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 527
+"../../../Engine/Content/EngineSounds/Master.uasset" 528
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 529
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 530
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 531
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 532
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 533
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 534
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 535
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 536
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 537
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 538
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 539
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 540
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 541
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 542
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 543
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 544
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 545
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 546
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 547
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 548
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 549
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 550
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 551
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 552
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 553
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 554
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 555
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 556
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 557
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 558
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 559
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 560
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 561
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 562
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 563
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 564
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 565
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 566
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 567
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 568
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 569
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 570
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 571
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 572
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 573
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 574
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 575
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 576
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 577
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 578
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 579
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 580
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 581
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 582
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 583
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 584
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 585
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 586
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 587
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 588
+"../../Plugins/Marketplace/Substance/Content/Templates/textures/default_normal.uasset" 589
+"../../Plugins/Marketplace/Substance/Content/Templates/textures/default_color.uasset" 590
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 591
+"../../Plugins/Marketplace/Substance/Content/Templates/material_functions/tiling.uasset" 592
+"../../Plugins/Marketplace/Substance/Content/Templates/parent_materials/Substance_Basic_Template.uasset" 593
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 594
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 595
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 596
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 597
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 598
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Map/nebula-01-low.uasset" 599
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Gate/Closing_Skeleton.uasset" 600
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Gate/Closing_PhysicsAsset.uasset" 601
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Gate/lambert1.uasset" 602
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Gate/Closing.uasset" 603
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Brush/BRUSH_Skeleton.uasset" 604
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Brush/BRUSH_PhysicsAsset.uasset" 605
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Brush/lambert1.uasset" 606
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Brush/BRUSH.uasset" 607
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/testing/vol_spawner.uasset" 608
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Map/x2propelor_Skeleton.uasset" 609
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Map/x2propelor_Anim.uasset" 610
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Map/x2propelor_PhysicsAsset.uasset" 611
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Map/lambert1.uasset" 612
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Map/x2propelor.uasset" 613
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Map/arounpropelor_pCylinder2.uasset" 614
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/Propellor/propellor_actor.uasset" 615
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/JumpPad/Cylinder.uasset" 616
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/JumpPad/Jumppad.uasset" 617
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Gate/Closing_Anim.uasset" 618
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Brush/BRUSH_Anim.uasset" 619
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/maps/LetsDoIt.umap" 620
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/UI/NewMenu/w_mainMenu.uasset" 621
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/UI/NewMenu/gm_menu.uasset" 622
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/maps/MainMenu.umap" 623
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/emission432.uasset" 624
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/19/Stylized_Oxidized_Battered_Copper_INST_roughness.uasset" 625
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/19/Stylized_Oxidized_Battered_Copper_INST_normal.uasset" 626
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/19/Stylized_Oxidized_Battered_Copper_INST_metallic.uasset" 627
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/19/Stylized_Oxidized_Battered_Copper_INST_diffuse.uasset" 628
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/19/Stylized_Oxidized_Battered_Copper_INST_ambientocclusion.uasset" 629
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Stylized_Oxidized_Battered_Copper_MAT_Template.uasset" 630
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/9/Steel_Galvanized_INST_roughness.uasset" 631
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/9/Steel_Galvanized_INST_normal.uasset" 632
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/9/Steel_Galvanized_INST_metallic.uasset" 633
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/9/Steel_Galvanized_INST_diffuse.uasset" 634
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Steel_Galvanized_MAT_Template.uasset" 635
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/1/Shou_Sugi_Ban_INST_roughness.uasset" 636
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/1/Shou_Sugi_Ban_INST_normal.uasset" 637
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/1/Shou_Sugi_Ban_INST_metallic.uasset" 638
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/1/Shou_Sugi_Ban_INST_diffuse.uasset" 639
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/1/Shou_Sugi_Ban_INST_ambientocclusion.uasset" 640
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Shou_Sugi_Ban_MAT_Template.uasset" 641
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/18/Rubber_Seal_Chromatic_Window_INST_roughness.uasset" 642
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/18/Rubber_Seal_Chromatic_Window_INST_refraction.uasset" 643
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/18/Rubber_Seal_Chromatic_Window_INST_normal.uasset" 644
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/18/Rubber_Seal_Chromatic_Window_INST_metallic.uasset" 645
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Rubber_Seal_Chromatic_Window_MAT_Template.uasset" 646
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/8/Metal_Pewter_Striped_INST_roughness.uasset" 647
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/8/Metal_Pewter_Striped_INST_normal.uasset" 648
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/8/Metal_Pewter_Striped_INST_metallic.uasset" 649
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/8/Metal_Pewter_Striped_INST_diffuse.uasset" 650
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/8/Metal_Pewter_Striped_INST_ambient_occlusion.uasset" 651
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Metal_Pewter_Striped_MAT_Template.uasset" 652
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/16/Linoleum_Splashed_Brickwork_Tiles_INST_metallic.uasset" 653
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/16/Linoleum_Splashed_Brickwork_Tiles_INST_diffuse.uasset" 654
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Linoleum_Splashed_Brickwork_Tiles_MAT_Template.uasset" 655
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/12/Lavastone_Polished_INST_roughness.uasset" 656
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/12/Lavastone_Polished_INST_normal.uasset" 657
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/12/Lavastone_Polished_INST_metallic.uasset" 658
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/12/Lavastone_Polished_INST_diffuse.uasset" 659
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Lavastone_Polished_MAT_Template.uasset" 660
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/10/Concrete_Matte_Polished_INST_roughness.uasset" 661
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/10/Concrete_Matte_Polished_INST_normal.uasset" 662
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/10/Concrete_Matte_Polished_INST_metallic.uasset" 663
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/10/Concrete_Matte_Polished_INST_diffuse.uasset" 664
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Concrete_Matte_Polished_MAT_Template.uasset" 665
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/2/Ceramic_Coating_Concrete_INST_roughness.uasset" 666
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/2/Ceramic_Coating_Concrete_INST_normal.uasset" 667
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/2/Ceramic_Coating_Concrete_INST_metallic.uasset" 668
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/2/Ceramic_Coating_Concrete_INST_diffuse.uasset" 669
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/2/Ceramic_Coating_Concrete_INST_ambientocclusion.uasset" 670
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Ceramic_Coating_Concrete_MAT_Template.uasset" 671
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/4/Asphalt_Rough_INST_roughness.uasset" 672
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/4/Asphalt_Rough_INST_normal.uasset" 673
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/4/Asphalt_Rough_INST_metallic.uasset" 674
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/4/Asphalt_Rough_INST_diffuse.uasset" 675
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/Asphalt_Rough_MAT_Template.uasset" 676
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/16/emission.uasset" 677
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/3X.uasset" 678
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/Helpers/helper_step.uasset" 679
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/Doors/door_sliding.uasset" 680
+"../../Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uasset" 681
+"../../Plugins/FX/Niagara/Content/Modules/Beams/UpdateBeam.uasset" 682
+"../../Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uasset" 683
+"../../Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uasset" 684
+"../../Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uasset" 685
+"../../Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 686
+"../../Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uasset" 687
+"../../Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uasset" 688
+"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uasset" 689
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/ranged/ns_projectile.uasset" 690
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/ranged/npc_projectile.uasset" 691
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/EnemyRange/Standing_2H_Magic_Attack_01_mixamo_com.uasset" 692
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/EnemyRange/Montage_RangedFire.uasset" 693
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/EnemyRange/Old_Man_Idle__1__PhysicsAsset.uasset" 694
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/EnemyRange/PM3D_ZSphere_1.uasset" 695
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Animations/EnemyRange/Old_Man_Idle__1_.uasset" 696
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/NPCs/ranged/npc_ranged.uasset" 697
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/maps/myMap.umap" 698
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/LEDBeam1.uasset" 699
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 700
+"../../../Engine/Content/EngineLightProfiles/Complex_IES.uasset" 701
+"../../../Engine/Content/BasicShapes/Cube.uasset" 702
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/WallRun/Materials/mi_blocks2.uasset" 703
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/Tutorial/m_tuts.uasset" 704
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/Tutorial/mi_tuts.uasset" 705
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/Tutorial/tutorial_parent.uasset" 706
+"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/sphere.uasset" 707
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/Lights/light_parent.uasset" 708
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/Environment/Checkpoints/checkpoint_collision.uasset" 709
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/maps/NewMap.umap" 710
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/VWing2.uasset" 711
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst4.uasset" 712
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Arrow_Star.uasset" 713
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Stakan/lambert1.uasset" 714
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Stakan/DoneStakan.uasset" 715
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Stairs/StairsdoneV2_defaultPolygonShader_OcclusionRoughnessMetallic.uasset" 716
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Stairs/StairsdoneV2_defaultPolygonShader_Normal.uasset" 717
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Stairs/StairsdoneV2_defaultPolygonShader_BaseColor.uasset" 718
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Stairs/defaultPolygonShader.uasset" 719
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Stairs/StairsdoneV2.uasset" 720
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Kad/lambert1.uasset" 721
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Kad/DoneKAD.uasset" 722
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/ColumnShort/Column-Ready_V1_OcclusionRoughnessMetallic.uasset" 723
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/ColumnShort/Column-Ready_V1_Normal.uasset" 724
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/ColumnShort/Column-Ready_V1_Emissive.uasset" 725
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/ColumnShort/Column-Ready_V1_BaseColor.uasset" 726
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/ColumnShort/V1.uasset" 727
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/ColumnShort/Column-Ready.uasset" 728
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Column/ShortColumn/pHelix16.uasset" 729
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Column/ShortColumn/Topcolumn.uasset" 730
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Column/RuinedColumnShort/pGear1.uasset" 731
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Column/RuinedColumnShort/ColumnRuinedShortDone.uasset" 732
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Column/RuinedColumn/pGear1.uasset" 733
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Column/RuinedColumn/ColumnRuinedDone.uasset" 734
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Column/FullColumn/FullColumnV2_pGear1_OcclusionRoughnessMetallic.uasset" 735
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Column/FullColumn/FullColumnV2_pGear1_Normal.uasset" 736
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Column/FullColumn/FullColumnV2_pGear1_BaseColor.uasset" 737
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Column/FullColumn/pGear1.uasset" 738
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Column/FullColumn/FullColumnV2.uasset" 739
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/BigStone/pCube1_copy2.uasset" 740
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/BigStone/BricksAllDone_pCube1_copy2.uasset" 741
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Tiles/DefaultMaterial_Roughness.uasset" 742
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 743
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Concrete/Concrete_Mat.uasset" 744
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Concrete/Concrete_Mat_Inst.uasset" 745
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Tiles/plane_divided_DefaultMaterial_OcclusionRoughnessMetallic.uasset" 746
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Tiles/plane_divided_DefaultMaterial_Normal.uasset" 747
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Tiles/plane_divided_DefaultMaterial_BaseColor.uasset" 748
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Tiles/Concrete_Roughness.uasset" 749
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Tiles/Concrete_Mixed_AO.uasset" 750
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Tiles/Tiles_endlessMaterial.uasset" 751
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Concrete/SOA_endless_dummy_2.uasset" 752
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/TimeNode/clouds.uasset" 753
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/VertexNormal.uasset" 754
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/Materials/GlassFracted.uasset" 755
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/dimaTest_BuiltData.uasset" 756
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Beam3.uasset" 757
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Pipe/PipeBig_lambert1_OcclusionRoughnessMetallic.uasset" 758
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Pipe/PipeBig_lambert1_Normal.uasset" 759
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Pipe/PipeBig_lambert1_Emissive.uasset" 760
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Pipe/PipeBig_lambert1_BaseColor.uasset" 761
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Pipe/lambert1.uasset" 762
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Pipe/PipeBig.uasset" 763
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Pipe/RopeToolBig.uasset" 764
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Tiles/Concrete_Mat_Inst.uasset" 765
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Pipe/V2Pipe.uasset" 766
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/NewMap/Pipe/RopeTool.uasset" 767
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/dimaTest/dimaTest.umap" 768
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Arrow_Up.uasset" 769
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/6Wing.uasset" 770
+"../../../Engine/Content/EngineMeshes/T_Mat_UnrealTech_01_D.uasset" 771
+"../../../Engine/Content/EngineMeshes/M_Mat_UnrealTech.uasset" 772
+"../../../Engine/Content/EngineMeshes/SM_MatPreviewMesh_01.uasset" 773
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Materials/Blank2.uasset" 774
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Materials/Blank.uasset" 775
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Bitmaps/Triangle01.uasset" 776
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Materials/Triangle.uasset" 777
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Bitmaps/Sparkle02.uasset" 778
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Materials/Sparkle2.uasset" 779
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Bitmaps/Lines01.uasset" 780
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Materials/Lines.uasset" 781
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Bitmaps/jets01.uasset" 782
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Materials/Jet.uasset" 783
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Bitmaps/Halo02.uasset" 784
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Materials/Halo2.uasset" 785
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Bitmaps/Halo01.uasset" 786
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Materials/Halo.uasset" 787
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid02.uasset" 788
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Materials/Grid3.uasset" 789
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid01.uasset" 790
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Materials/Grid2.uasset" 791
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid.uasset" 792
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Materials/Grid.uasset" 793
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Beam.uasset" 794
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Bitmaps/Fixture01.uasset" 795
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Materials/Future.uasset" 796
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Bitmaps/Cross02.uasset" 797
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Materials/Cross2.uasset" 798
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Bitmaps/Cross01.uasset" 799
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Functions/Materials/Cross1.uasset" 800
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/XStar2.uasset" 801
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/XStar.uasset" 802
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Wall_InvertedV.uasset" 803
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Wall_Boomerang.uasset" 804
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/VWing.uasset" 805
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst8.uasset" 806
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst7.uasset" 807
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst6.uasset" 808
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst5.uasset" 809
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst2.uasset" 810
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst.uasset" 811
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Star_Bow.uasset" 812
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Spreadout4.uasset" 813
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Spreadout3.uasset" 814
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Spreadout2.uasset" 815
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Spreadout1.uasset" 816
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Spotlight4.uasset" 817
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Spotlight3.uasset" 818
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/SpotLight2.uasset" 819
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/SpotLight1.uasset" 820
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Shattered5.uasset" 821
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Shattered4.uasset" 822
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Shattered3.uasset" 823
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Shattered2.uasset" 824
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Shattered1.uasset" 825
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/LEDBeam7.uasset" 826
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/LEDBeam6.uasset" 827
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/LEDBeam5.uasset" 828
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/LEDBeam4.uasset" 829
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/LEDBeam3.uasset" 830
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/LEDBeam2.uasset" 831
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Capped2.uasset" 832
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Capped1.uasset" 833
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Bow1.uasset" 834
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Beam8.uasset" 835
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Beam7.uasset" 836
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Beam6.uasset" 837
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Beam5.uasset" 838
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Lighting/Profiles/Beam2.uasset" 839
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/LightProfilePack/Overview.umap" 840
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 841
+"../../../../../../Users/AbraChupaCabra/Documents/Unreal Projects/IgniteGame/Content/UI/MainMenu/UILEVEL.umap" 842
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 843
+"../../../Engine/Content/Maps/Entry.umap" 844
